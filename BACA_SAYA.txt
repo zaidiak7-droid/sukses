@@ -1,0 +1,23 @@
+SUKSES 2026-2028 - Aplikasi untuk GitHub Pages
+
+PASANG (sekali sahaja)
+1. Daftar akaun percuma di https://github.com
+2. Tekan "+" (kanan atas) > New repository.
+   Nama: sukses   |   Pilih: Public   |   Tekan: Create repository
+3. Pada halaman repository, tekan "uploading an existing file".
+   Seret SEMUA fail dalam folder ini ke situ, kemudian tekan "Commit changes".
+4. Pergi ke Settings > Pages.
+   Source: Deploy from a branch   |   Branch: main, / (root)   |   Save
+5. Tunggu 1-2 minit. Pautan tetap akan dipaparkan, contohnya:
+   https://NAMA-AKAUN-ANDA.github.io/sukses/
+   Kongsi pautan ini kepada semua ahli.
+
+KEMAS KINI DATA (setiap kali ada perubahan)
+1. Kemas kini SUKSES_Data.xlsx dalam Excel. Kekalkan nama fail, nama sheet dan tajuk lajur.
+2. Buka repository sukses di GitHub > Add file > Upload files.
+3. Seret SUKSES_Data.xlsx yang baru, tekan "Commit changes".
+4. Dalam 1-2 minit, semua ahli akan nampak data terkini. Pautan tidak berubah.
+
+PASANG DI TELEFON
+- Android (Chrome): menu tiga titik > Install app / Add to Home screen
+- iPhone (Safari): butang Kongsi > Add to Home Screen
